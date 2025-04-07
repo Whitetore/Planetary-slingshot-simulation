@@ -10,7 +10,7 @@ This project simulates a gravitational slingshot effect using Pygame, where spac
 - Allows for multiple spacecraft to be added and tracked at once.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.6
 - Pygame library
 
 ## Installation
